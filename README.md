@@ -13,7 +13,7 @@ A: The MtN1 (Motion-1) is a robotics motion expansion board designed to work wit
 
 > Q: What is the goal of this project?
 
-A: The goal of the MtN1 is to ensure complexity is a choice, not a compromise. Although simplicity and constrains allow for mechanisms that are designed with robustness, MtN1 is designed to allow for seasoned and rookie roboticists to truly expand on what they can do.
+A: The goal of the MtN1 is to ensure complexity is a choice, not a compromise. Although simplicity and constraints allow for mechanisms that are designed with robustness, MtN1 is designed to allow for seasoned and rookie roboticists to truly expand on individual STEM efficacy.
 
 > Q: What was the inspiration for this board?
 
