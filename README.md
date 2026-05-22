@@ -6,10 +6,6 @@
 
 ## [Check discussions and help out!!! 🥹](https://github.com/Turtlerock0010/MtN1-Hardware/discussions)
 
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 ## About
 
 ### Q: What is this project?
