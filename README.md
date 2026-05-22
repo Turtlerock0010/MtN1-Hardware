@@ -4,7 +4,8 @@
 
 > MtN1 Draft 1 3D Model, WIP
 
-## [Check discussions and help out!!! 🥹](https://github.com/Turtlerock0010/MtN1-Hardware/discussions)
+> [!IMPORTANT]
+> [Check discussions and help out!!! 🥹](https://github.com/Turtlerock0010/MtN1-Hardware/discussions)
 
 ## About
 
