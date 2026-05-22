@@ -6,6 +6,10 @@
 
 ## [Check discussions and help out!!! 🥹](https://github.com/Turtlerock0010/MtN1-Hardware/discussions)
 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 ## About
 
 ### Q: What is this project?
@@ -18,7 +22,7 @@ A: The goal of the MtN1 is to ensure complexity is a choice, not a compromise. A
 A: Within MiniFRC -- an event hosted by The Terrorbytes [4561] -- I saw many very impressive creations, ranging from complete swerve drivetrains to advanced vision systems. But one common thread between them were the compromises made in order to work within the bounds of the most common robotics board used. Even I and the MiniFRC team I'm in (The Pink Fluffy Unicorns [83]) deliberated on how to distribute or simplify systems to fit these physical bounds!
 
 ### Q: Wait, no microcontroller onboard?
-A: Yes!!! The MtN1 does not use a microcontroller. Instead, it uses a distributed control architecture to act as a primative version of one. This allows for cheaper costs, low latency control, univseral I2C compatability, and 2 GPIO pin control!
+A: Yes!!! The MtN1 does not use a microcontroller. Instead, it uses a distributed control architecture to act as a primative version of one. This allows for cheaper costs, low latency control, universal I2C compatability, and 2 GPIO pin control!
 
 ### Q: Why the name MtN1 (Motion-1)?
 A: I chose the name MtN1 as I felt like it was the name that properly describes the board's capabilities; and it looks stylish 😎.
