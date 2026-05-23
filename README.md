@@ -1,3 +1,5 @@
+[MtN1 Draft 1.pdf](https://github.com/user-attachments/files/28184650/MtN1.Draft.1.pdf)
+[MtN1 Draft 1.pdf](https://github.com/user-attachments/files/28184647/MtN1.Draft.1.pdf)
 # MtN1-Hardware
 <img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/94c42067-b76e-4c57-bbf0-fd66a55047d2" />
 
@@ -26,7 +28,6 @@ A: I chose the name MtN1 as I felt like it was the name that properly describes 
 
 
 ## Non-Final Schematic
-
-<img width="796" height="557" alt="image" src="https://github.com/user-attachments/assets/11a76bad-a0c5-460b-a40d-135d4fc65475" />
+<img width="796" height="557" alt="MtN1 Draft 1" src="https://github.com/user-attachments/assets/99b15b88-52bc-4f02-a120-0f37e34cbdb8" />
 
 > MtN1 Draft 1 Schematic, WIP
