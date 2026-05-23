@@ -1,5 +1,3 @@
-[MtN1 Draft 1.pdf](https://github.com/user-attachments/files/28184650/MtN1.Draft.1.pdf)
-[MtN1 Draft 1.pdf](https://github.com/user-attachments/files/28184647/MtN1.Draft.1.pdf)
 # MtN1-Hardware
 <img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/94c42067-b76e-4c57-bbf0-fd66a55047d2" />
 
