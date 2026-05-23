@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -715,7 +715,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "MtN1-Draft-1",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -727,7 +727,7 @@
         "uuid": "b9c77c5b-ac38-4068-bc24-8b77c1557735"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J8,J12-16,#PWR23,#PWR31-34,#PWR43,#PWR47,#PWR49,JP1-6,R5,R13-17",
     "variants": []
   },
   "sheets": [

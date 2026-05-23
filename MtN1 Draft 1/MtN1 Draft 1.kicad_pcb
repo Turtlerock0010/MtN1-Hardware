@@ -3193,6 +3193,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3651,6 +3652,7 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4170,13 +4172,13 @@
 	(footprint "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm"
 		(layer "F.Cu")
 		(uuid "57644446-c845-458c-b80e-6f8c912b749b")
-		(at 125.08 112 180)
+		(at 126.5 123 180)
 		(descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=289)")
 		(tags "QFN NoLead")
 		(property "Reference" "U4"
 			(at 0 -4.3 0)
 			(layer "F.SilkS")
-			(uuid "4e01b42e-0b22-4a2f-b7bd-9156c7f37026")
+			(uuid "a1a519ba-70c3-419f-a124-1ac1c0ae8658")
 			(effects
 				(font
 					(size 1 1)
@@ -4187,7 +4189,7 @@
 		(property "Value" "MCP23017x-x-ML"
 			(at 0 4.3 0)
 			(layer "F.Fab")
-			(uuid "b388e8ab-0e36-4b1a-bb45-de403e9cb192")
+			(uuid "2f305944-02e2-4427-96f3-ae6a20a6501a")
 			(effects
 				(font
 					(size 1 1)
@@ -4199,7 +4201,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "117ae363-acd6-4df4-9853-77ab8743ab6f")
+			(uuid "ad9fad6f-531f-4c34-bcd3-34adc005c4b7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4210,7 +4212,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b7cf7f11-1c9d-46d4-b3e4-4b943a4e2229")
+			(uuid "fb7e8633-5b18-474d-ab58-60df046826a7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4928,7 +4930,7 @@
 	(footprint "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "5ac8d4be-fb28-46e7-9ee3-ac531fd649e7")
-		(at 135 127.5 90)
+		(at 126 133 90)
 		(descr "SSOP, 24 Pin (JEDEC MO-150 variation AG, 1.75mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MO-150, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=398, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/ssop_24_05-08-1640.pdf)")
 		(tags "SSOP SO")
 		(property "Reference" "U2"
@@ -6573,7 +6575,7 @@
 		(property "Reference" "C10"
 			(at 0 -4.35 0)
 			(layer "F.SilkS")
-			(uuid "ca0567a6-8b2f-4d6e-a068-46f306226b32")
+			(uuid "1611730c-d118-46d4-a293-8bcd121e4a78")
 			(effects
 				(font
 					(size 1 1)
@@ -6584,7 +6586,7 @@
 		(property "Value" "220uF"
 			(at -6.58 55.5975 0)
 			(layer "F.Fab")
-			(uuid "de4cbb1c-7e74-46a3-80e1-c76f4927270b")
+			(uuid "c24028c6-b3cc-47b4-be05-1b8f58c3db63")
 			(effects
 				(font
 					(size 1 1)
@@ -6596,7 +6598,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7d47b32c-c027-4f6b-aee1-5e96b5b2a06f")
+			(uuid "20c172a1-68cd-4e9b-aae2-2aedd7fef6ba")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6607,7 +6609,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cdcfbe4c-a4b7-447f-9d42-082bcb9eb350")
+			(uuid "fafc50b1-6086-41a2-b050-38c4da314dca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8395,13 +8397,13 @@
 	(footprint "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm"
 		(layer "F.Cu")
 		(uuid "96a4c4d7-65b4-452b-8397-5dd71e753444")
-		(at 116.58 112 180)
+		(at 116 118 180)
 		(descr "QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=289)")
 		(tags "QFN NoLead")
 		(property "Reference" "U5"
 			(at 0 -4.3 0)
 			(layer "F.SilkS")
-			(uuid "d969d6d5-9543-4caa-b832-8138e1b7e78d")
+			(uuid "6b2b6ec4-82fa-4dfe-9421-55d616c2a3be")
 			(effects
 				(font
 					(size 1 1)
@@ -8412,7 +8414,7 @@
 		(property "Value" "PCA9685BS"
 			(at 0 4.3 0)
 			(layer "F.Fab")
-			(uuid "7fc96270-18d7-4c40-aedf-e1bc7f2ca744")
+			(uuid "29df66e9-123f-403c-9022-e2860d177545")
 			(effects
 				(font
 					(size 1 1)
@@ -8424,7 +8426,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c4930fc-949d-4548-8265-85b13821d643")
+			(uuid "9cb7fdc8-ae88-4b69-b117-608cf0dc3c1a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8435,7 +8437,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fbc3c05-c95d-4a33-8591-9d65dcdfb75d")
+			(uuid "9e1f6172-3d32-43d2-aa50-c545f970ff22")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9160,7 +9162,7 @@
 		(property "Reference" "C9"
 			(at 0 -4.35 0)
 			(layer "F.SilkS")
-			(uuid "13378594-be18-46a6-b6e8-82bdf3f5cd0c")
+			(uuid "38f9e8a1-4f08-492b-b838-51cbcd102935")
 			(effects
 				(font
 					(size 1 1)
@@ -9171,7 +9173,7 @@
 		(property "Value" "220uF"
 			(at 0 4.35 0)
 			(layer "F.Fab")
-			(uuid "04b9b5cb-aaaf-4286-a9d5-5fa2d7b3ce27")
+			(uuid "52264eaf-edbf-4d54-9bc0-8d4fd37003f2")
 			(effects
 				(font
 					(size 1 1)
@@ -9183,7 +9185,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6e3f8d51-e451-4e7b-a8d7-9550adb4b9bc")
+			(uuid "c0f73bc2-bb7b-47c1-84cf-45a82a188054")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9194,7 +9196,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b0004c77-9447-471f-9616-259f9cab7a3e")
+			(uuid "6acf04e7-1350-49ca-b75c-f0d9506bb262")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9791,7 +9793,7 @@
 	(footprint "Package_SO:SSOP-24_5.3x8.2mm_P0.65mm"
 		(layer "F.Cu")
 		(uuid "9a04e81a-eb12-41f2-8220-2284f52f6358")
-		(at 135 116.5 90)
+		(at 126 113 90)
 		(descr "SSOP, 24 Pin (JEDEC MO-150 variation AG, 1.75mm body thickness, https://www.jedec.org/document_search?search_api_views_fulltext=MO-150, https://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=398, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/ssop_24_05-08-1640.pdf)")
 		(tags "SSOP SO")
 		(property "Reference" "U1"
@@ -14582,7 +14584,7 @@
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "B.Cu")
 		(uuid "8c6a2c44-126e-47b1-a57a-bc3ccc553413")
-		(at 127 122)
+		(at 117.5 111)
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "J7"
@@ -14754,7 +14756,7 @@
 	(footprint "TestPoint:TestPoint_Pad_2.0x2.0mm"
 		(layer "B.Cu")
 		(uuid "dec86ad7-ef28-4a3a-9de9-bac926b2ab78")
-		(at 123.91 122)
+		(at 114.41 111)
 		(descr "SMD rectangular pad as test Point, square 2.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "J6"
@@ -15088,6 +15090,38 @@
 		)
 	)
 	(segment
+		(start 110.17 111.65)
+		(end 110.5 111.32)
+		(width 1.2)
+		(layer "F.Cu")
+		(net "Net-(D1-A)")
+		(uuid "7287ae86-6acf-4112-8333-d34327db7a86")
+	)
+	(segment
+		(start 108.5 111.65)
+		(end 110.17 111.65)
+		(width 1.2)
+		(layer "F.Cu")
+		(net "Net-(D1-A)")
+		(uuid "7449722e-0da3-4e1e-aaf3-5ebdb4cd76e6")
+	)
+	(segment
+		(start 103.875 111.45)
+		(end 108.3 111.45)
+		(width 1.2)
+		(layer "F.Cu")
+		(net "Net-(D1-A)")
+		(uuid "98aba1a4-ad62-4ef8-9d71-e7ddf1a81827")
+	)
+	(segment
+		(start 108.3 111.45)
+		(end 108.5 111.65)
+		(width 1.2)
+		(layer "F.Cu")
+		(net "Net-(D1-A)")
+		(uuid "9b21009b-8601-4722-b0f8-d9b21ed58c73")
+	)
+	(segment
 		(start 119.7 126.5)
 		(end 120.5 126.5)
 		(width 1.2)
@@ -15214,54 +15248,6 @@
 		(layers "F.Cu" "B.Cu")
 		(net "VCC")
 		(uuid "e55a720c-678b-4dfc-aa94-5bea1fd6bd69")
-	)
-	(segment
-		(start 110.17 111.65)
-		(end 110.5 111.32)
-		(width 1.2)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "7287ae86-6acf-4112-8333-d34327db7a86")
-	)
-	(segment
-		(start 108.5 111.65)
-		(end 110.17 111.65)
-		(width 1.2)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "7449722e-0da3-4e1e-aaf3-5ebdb4cd76e6")
-	)
-	(segment
-		(start 103.875 111.45)
-		(end 108.3 111.45)
-		(width 1.2)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "98aba1a4-ad62-4ef8-9d71-e7ddf1a81827")
-	)
-	(segment
-		(start 108.3 111.45)
-		(end 108.5 111.65)
-		(width 1.2)
-		(layer "F.Cu")
-		(net "Net-(D1-A)")
-		(uuid "9b21009b-8601-4722-b0f8-d9b21ed58c73")
-	)
-	(segment
-		(start 105 122.5)
-		(end 102 119.5)
-		(width 1.2)
-		(layer "B.Cu")
-		(net "Net-(J5-Pad1)")
-		(uuid "121dd41c-dc03-4f24-9980-62902f58f30f")
-	)
-	(segment
-		(start 102 119.5)
-		(end 102 106.5)
-		(width 1.2)
-		(layer "B.Cu")
-		(net "Net-(J5-Pad1)")
-		(uuid "c47d4f6c-633c-4158-9775-c6645270a187")
 	)
 	(segment
 		(start 104 106.5)
