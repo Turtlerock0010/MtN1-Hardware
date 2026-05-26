@@ -7,6 +7,10 @@
 > [!IMPORTANT]
 > [Check discussions and help out!!! 🥹](https://github.com/Turtlerock0010/MtN1-Hardware/discussions)
 
+> [!NOTE]
+> This is the hardare repository for the MtN1! For MtN1 software, go to [MtN1-Lib](https://github.com/Turtlerock0010/MtN1-Lib).
+
+
 ## About
 
 ### Q: What is this project?
