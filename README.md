@@ -1,5 +1,5 @@
 # MtN1-Hardware
-<img width="467" height="317" alt="image" src="https://github.com/user-attachments/assets/94c42067-b76e-4c57-bbf0-fd66a55047d2" />
+<img width="532" height="374" alt="image" src="https://github.com/user-attachments/assets/d5ee7ec2-a04d-49ee-aa73-45fb841d3e79" />
 
 
 > MtN1 Draft 1 3D Model, WIP
