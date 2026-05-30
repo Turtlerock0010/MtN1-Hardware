@@ -60,7 +60,44 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|139305000|125235000|7964e224-b896-490e-a980-6f10c554aae2|aeaa32ab-b732-4b54-9556-4be391649b9d",
+          "Fine; handsoldered."
+        ],
+        [
+          "courtyards_overlap|139305000|127735000|7964e224-b896-490e-a980-6f10c554aae2|f4f5ed0e-8b65-4f4f-838f-52d050cd6062",
+          "Fine; handsoldered."
+        ],
+        [
+          "courtyards_overlap|139305000|130235000|b322b959-92b4-4482-a1f8-01b4ae2f1475|f4f5ed0e-8b65-4f4f-838f-52d050cd6062",
+          "Fine; handsoldered."
+        ],
+        [
+          "courtyards_overlap|139305000|133695000|53841aa3-5bf3-496c-b0d5-10f20cd20139|b322b959-92b4-4482-a1f8-01b4ae2f1475",
+          "Fine; handsoldered."
+        ],
+        [
+          "courtyards_overlap|139305000|138970000|53841aa3-5bf3-496c-b0d5-10f20cd20139|a46a9b05-a612-43fd-a463-2ea19491b66e",
+          "Fine; handsoldered."
+        ],
+        [
+          "lib_footprint_mismatch|103500000|142500000|06d0a42a-2227-43ca-ad46-60bacfea3621|00000000-0000-0000-0000-000000000000",
+          "Mounting hole look; not bad."
+        ],
+        [
+          "lib_footprint_mismatch|136500000|103500000|49cf8f5a-8158-4b61-a6b7-710584174a6c|00000000-0000-0000-0000-000000000000",
+          "Mounting hole look; not bad."
+        ],
+        [
+          "padstack|103500000|142500000|f8d474a4-a429-4192-8e22-3ffa7a20923f|00000000-0000-0000-0000-000000000000",
+          "Mounting hole look; not bad."
+        ],
+        [
+          "padstack|136500000|103500000|99ba5bf1-6e4d-4db9-8139-16ee714a3056|00000000-0000-0000-0000-000000000000",
+          "Mounting hole look; not bad."
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -523,28 +560,6 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
-      },
-      {
-        "clearance": 0.3,
-        "name": "Power_Heavy",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 2.0,
-        "tuning_profile": "",
-        "via_diameter": 1.4,
-        "via_drill": 0.7
-      },
-      {
-        "clearance": 0.2,
-        "name": "Power_Logic",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.5,
-        "tuning_profile": "",
-        "via_diameter": 0.8,
-        "via_drill": 0.4
       }
     ],
     "meta": {
@@ -554,15 +569,15 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Power_Heavy",
+        "netclass": "Default",
         "pattern": "VCC"
       },
       {
-        "netclass": "Power_Logic",
+        "netclass": "Default",
         "pattern": "5V"
       },
       {
-        "netclass": "Power_Logic",
+        "netclass": "Default",
         "pattern": "3V3"
       },
       {
@@ -727,7 +742,7 @@
         "uuid": "b9c77c5b-ac38-4068-bc24-8b77c1557735"
       }
     ],
-    "used_designators": "J8,J12-16,#PWR23,#PWR31-34,#PWR43,#PWR47,#PWR49,JP1-6,R5,R13-17",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
