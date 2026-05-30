@@ -1,2 +1,5 @@
 # Ignore the entire local KiCad backups folder
 *[Bb]ackups/
+
+# Ignore macOS system files
+.DS_Store
