@@ -1,0 +1,2 @@
+# Ignore the entire local KiCad backups folder
+*[Bb]ackups/
