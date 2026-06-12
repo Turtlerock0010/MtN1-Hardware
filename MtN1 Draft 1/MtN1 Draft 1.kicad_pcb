@@ -19930,6 +19930,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "In Memory of Buster <3"
+		(at 102 120.5 90)
+		(layer "B.SilkS")
+		(uuid "ac59d6b5-74e3-40f9-99bf-e92d7a129158")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "M3+"
 		(at 111 144.5 180)
 		(layer "B.SilkS")
