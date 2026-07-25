@@ -13094,7 +13094,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "36kΩ"
+		(property "Value" "33kΩ"
 			(at 155.956 170.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15114,7 +15114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:R_0402"
+		(property "Footprint" "lcsc_footprints:C25744_R0402"
 			(at 210.312 111.76 90)
 			(hide yes)
 			(show_name no)
